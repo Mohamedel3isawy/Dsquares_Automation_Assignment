@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-07T03:29:25 EEST" name="Default Suite" finished-at="2024-07-07T03:29:42 EEST" duration-ms="16445">
+    <groups>
+    </groups>
+    <test started-at="2024-07-07T03:29:25 EEST" name="Dsquares_Automation_Assignment" finished-at="2024-07-07T03:29:42 EEST" duration-ms="16445">
+      <class name="Tests.Scenario_1">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.Scenario_1@2f177a4b]" started-at="2024-07-07T03:29:25 EEST" name="Setup" finished-at="2024-07-07T03:29:28 EEST" duration-ms="2865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test_Upload()[pri:0, instance:Tests.Scenario_1@2f177a4b]" started-at="2024-07-07T03:29:30 EEST" name="Test_Upload" finished-at="2024-07-07T03:29:33 EEST" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Upload -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:Tests.Scenario_1@2f177a4b]" started-at="2024-07-07T03:29:41 EEST" name="Close" finished-at="2024-07-07T03:29:41 EEST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- Tests.Scenario_1 -->
+      <class name="Tests.Scenario_2">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.Scenario_2@77167fb7]" started-at="2024-07-07T03:29:28 EEST" name="Setup" finished-at="2024-07-07T03:29:30 EEST" duration-ms="1551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test_Dynamic_Loading()[pri:0, instance:Tests.Scenario_2@77167fb7]" started-at="2024-07-07T03:29:33 EEST" name="Test_Dynamic_Loading" finished-at="2024-07-07T03:29:41 EEST" duration-ms="7877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Dynamic_Loading -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:Tests.Scenario_2@77167fb7]" started-at="2024-07-07T03:29:41 EEST" name="Close" finished-at="2024-07-07T03:29:42 EEST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- Tests.Scenario_2 -->
+    </test> <!-- Dsquares_Automation_Assignment -->
+  </suite> <!-- Default Suite -->
+</testng-results>
